@@ -260,6 +260,7 @@ doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" />
 			</tr>
 		</table>
 	</xsl:template>
+	123
 
 	<xsl:template name="alternated-row">
 	<!--** Template alternated-row, for alternated rows style in tables -->
